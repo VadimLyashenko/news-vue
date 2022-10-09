@@ -1,0 +1,5 @@
+.news {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: rem(14);
+}
