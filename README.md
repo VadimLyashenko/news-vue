@@ -1,5 +1,10 @@
 # news-vue
 
+## Demo
+
+To view a demo online:
+https://vadimlyashenko.github.io/news-vue/
+
 ## Project Setup
 
 ```sh
